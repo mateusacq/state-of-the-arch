@@ -1,7 +1,10 @@
 # 🏛️ State of The Arch
 
 > "San Girolamo scrivendo" — Caravaggio (1605)
-
+<div align="center">
+  <img src="./screenshots/screenshot1.png" alt="Screenshot 1" width="45%" />
+  <img src="./screenshots/screenshot2.png" alt="Screenshot 2" width="45%" />
+</div>
 ---
 
 ## 🛠️ System Info
