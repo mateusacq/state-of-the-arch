@@ -1,0 +1,6 @@
+# Força o uso do termo "xterm-256color" ou "kitty" para melhor compatibilidade
+term xterm-256color
+
+# Habilita suporte a mouse dentro do tmux
+mouse_hide_wait 3.0
+enable_audio_bell no
